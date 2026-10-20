@@ -6,8 +6,8 @@ export const STORE = {
   shortName: 'PF',
   tagline: "L'élégance, portée au quotidien.",
   whatsapp: import.meta.env.VITE_WHATSAPP_NUMBER || '22900000000',
-  email: 'contact@prestige-fashion.example',
-  phone: '+229 00 00 00 00',
+  email: 'prestige-fashion@gmail.com',
+  phone: '+229 01 29 22 64 64',
   address: 'Cotonou, Bénin',
   hours: 'Lun – Sam : 9h – 19h',
   socials: {
